@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["N4254BCUV3.com.MrNekto.ShoppingManager"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Все пути"
+          }
+        ]
+      }
+    ]
+  }
+}
