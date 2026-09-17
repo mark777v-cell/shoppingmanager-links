@@ -1,0 +1,1 @@
+# shoppingmanager-links
